@@ -1,19 +1,10 @@
-{
 [
-    {
-      "title": "شرح تسجيل الدخول والاتصال بالراوتر",
-      "url": "https://youtu.be/ZSyq2VPXCCw?si=6HzbLa5fYaRTLvDd",
-      "description": "كيفية الاتصال بالراوتر وتكوين الإعدادات الأساسية",
-      "duration": "12:30",
-      "category": "أساسيات"
-    },
-    {
-      "title": "شرح إدارة المستخدمين والسرعات",
-      "url": "https://youtu.be/Gc936E1Kybw?si=EQRJObl-BacC4CK6",
-      "description": "كيفية إضافة وتعديل وإدارة مستخدمي الواي فاي",
-      "duration": "18:15",
-      "category": "الإدارة"
-    }
-  ]
-
-}
+  {
+    "title": "شرح تسجيل الدخول والاتصال بالراوتر",
+    "url": "https://youtu.be/ZSyq2VPXCCw?si=6HzbLa5fYaRTLvDd"
+  },
+  {
+    "title": "شرح إدارة المستخدمين والسرعات",
+    "url": "https://youtu.be/Gc936E1Kybw?si=EQRJObl-BacC4CK6"
+  }
+]
